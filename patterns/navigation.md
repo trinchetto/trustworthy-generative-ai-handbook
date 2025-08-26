@@ -1,6 +1,3 @@
-
-## Promising Generative AI Task Types
-
 ### Navigation — “Take me to the truth, don’t generate it”
 **Why it’s lower-risk**  
 Navigation leverages **existing, validated systems** (databases, dashboards, EMRs, CRMs) and has the model **guide** users to where information lives instead of fabricating answers. If guidance is wrong, users see it’s missing and harm is limited; if text is fabricated, harm can be high.
