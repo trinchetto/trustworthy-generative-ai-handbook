@@ -53,8 +53,6 @@ helping people think more critically, overcome biases, and scale their creativit
   - Rapidly prototyping user interfaces from text descriptions.  
   - Turning technical specifications into stakeholder-friendly summaries.  
 
----
-
 The ACHIEVE framework underscores an **augmented intelligence mindset**: humans remain in control, 
 providing oversight and judgment, while AI acts as a force multiplier.  
 Used this way, AI **augments human spark instead of replacing it**, enabling individuals and organizations 
